@@ -77,7 +77,12 @@ pds-leakage-detection/
 ## 📊 Output
 - Cleaned and processed dataset  
 - Visualizations for analysis  
-- Engineered features for further modeling  
+- Engineered features for further modeling
+
+<img width="1146" height="490" alt="image" src="https://github.com/user-attachments/assets/74a4aab2-6ba7-4cc5-a8fc-40e35fa8ec84" /> <br>
+<img width="943" height="502" alt="image" src="https://github.com/user-attachments/assets/9deb0f17-6f56-4eed-9fbf-9b4086df2fc3" /> <br>
+<img width="1163" height="500" alt="image" src="https://github.com/user-attachments/assets/e741ae9b-21aa-4e82-b9ee-b0da529ea731" /> <br>
+<img width="1160" height="484" alt="image" src="https://github.com/user-attachments/assets/95a3f6d9-6df0-4c00-8d53-a9ab5df3bfef" /> <br>
 
 ---
 
