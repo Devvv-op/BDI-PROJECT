@@ -7,10 +7,8 @@ def create_features(df):
     """
 
     # Utilization Ratio
-    df['utilization_ratio'] = df['distribution'] / df['allocation']
-
-    # Per Capita Distribution
-    df['per_capita'] = df['distribution'] / df['beneficiaries']
+    df['utilization_ratio'] = df['distribution'] / df['allocation'].replace(0, 1)
+    df['per_capita'] = df['distribution'] / df['beneficiaries'].replace(0, 1)
 
     # Excess Distribution
     df['excess_distribution'] = df['distribution'] - df['allocation']

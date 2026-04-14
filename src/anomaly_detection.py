@@ -108,9 +108,7 @@ def plot_all(df, column):
 
 
 # ---------------- PIPELINE ----------------
-def run_pipeline(input_path):
-    df = load_data(input_path)
-
+def run_pipeline(df):
     print("Columns:", df.columns)
 
     # anomaly detection
@@ -131,6 +129,3 @@ def run_pipeline(input_path):
     return df
 
 
-# ---------------- RUN ----------------
-if __name__ == "__main__":
-    df = run_pipeline("data/processed/pds_data.csv")
