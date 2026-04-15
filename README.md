@@ -95,7 +95,7 @@ pip install -r requirements.txt
 python main.py
 
 2. Run the dashboard:
-streamlit run .py
+streamlit run app.py
 
 ---
 
