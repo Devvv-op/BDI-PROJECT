@@ -94,6 +94,9 @@ pip install -r requirements.txt
 2. Run the pipeline:
 python main.py
 
+2. Run the dashboard:
+streamlit run .py
+
 ---
 
 ## 🧠 Key Insights
