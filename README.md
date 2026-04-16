@@ -109,5 +109,10 @@ streamlit run app.py
 
 ## 📌 Note
 - Real FPS data was used for structure  
-- Allocation and distribution values were simulated to create realistic analysis scenarios  
+- Allocation and distribution values were simulated to create realistic analysis scenarios
+
+---
+
+## Deployment 
+- https://bdi-app.streamlit.app/
 
